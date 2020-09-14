@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BDD Test Suite" duration-ms="27" started-at="2019-11-26T09:32:17Z" finished-at="2019-11-26T09:32:17Z">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="27" started-at="2019-11-26T09:32:17Z" finished-at="2019-11-26T09:32:17Z">
+      <class name="com.bhanupratap.cucumberFramework.ReturnTestNGMethod">
+        <test-method status="PASS" signature="normalMethod()[pri:0, instance:com.bhanupratap.cucumberFramework.ReturnTestNGMethod@4501b7af]" name="normalMethod" duration-ms="11" started-at="2019-11-26T15:02:17Z" finished-at="2019-11-26T15:02:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- normalMethod -->
+        <test-method status="PASS" signature="returnMethod()[pri:0, instance:com.bhanupratap.cucumberFramework.ReturnTestNGMethod@4501b7af]" name="returnMethod" duration-ms="1" started-at="2019-11-26T15:02:17Z" finished-at="2019-11-26T15:02:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnMethod -->
+      </class> <!-- com.bhanupratap.cucumberFramework.ReturnTestNGMethod -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- BDD Test Suite -->
+</testng-results>
